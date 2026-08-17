@@ -1,0 +1,12 @@
+{
+  "name": "un-organized_codes",
+  "version": "1.0.0",
+  "description": "All the unorganized codes, such as examples, scripts, etc",
+  "license": "ISC",
+  "author": "OMKAR AGRAWAL",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
